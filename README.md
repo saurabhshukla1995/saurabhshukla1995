@@ -1,6 +1,6 @@
 # Hi, I'm Saurabh Shukla 👋
 
-### Lead Consultant | AI Engineer | Full Stack Developer
+### AI Engineer | Lead Consultant | Full Stack Developer
 
 I’m a Full Stack Developer and AI Engineer focused on building scalable web applications and integrating Generative AI, LLMs, RAG, and Agentic AI workflows into real-world products.
 
