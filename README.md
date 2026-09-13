@@ -2,7 +2,7 @@
 
 ### AI Engineer | Lead Consultant | Full Stack Developer
 
-I’m a Full Stack Developer and AI Engineer focused on building scalable web applications and integrating Generative AI, LLMs, RAG, and Agentic AI workflows into real-world products.
+I’m an AI Engineer and Lead Consultant with a strong Full Stack Development background, focused on building scalable applications and integrating Generative AI, LLMs, RAG, and Agentic AI workflows into real-world products.
 
 I enjoy building AI-powered applications that combine modern AI technologies with strong backend and frontend engineering.
 
